@@ -16,6 +16,11 @@ export const sites = [
     description: "Falconone's AMV blog",
   },
   {
+    title: "subculture diaries",
+    url: "https://crakthesky.wordpress.com/",
+    description: "CrackTheSky's personal blog, with a strong focus on AMV analysis and critique",
+  },
+  {
     title: "Honou Productions",
     url: "https://www.honouproductions.net/",
     description: "Lantis' AMV blog",
